@@ -44,3 +44,5 @@ To run the application, you need to run all the cells in the notebook.
     -   [Suhaylah Carim Bacor](https://www.linkedin.com/in/suhaylah-carim-bacor-31094a226/)
     -   [Em Hughes](https://www.linkedin.com/in/marie-hughes-812ab4309/)
 
+
+![Group Picture](./Image/Group_Picture.png)
