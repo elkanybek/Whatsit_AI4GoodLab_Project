@@ -2,6 +2,8 @@
 
 > This project was developed for the AI4Good Lab 2024 Project. 
 
+Go to demo: [Webpage Demo](#demonstration) (click here)
+
 ## Overview
 Whatsit is a Al communication assistant tool that aims to help those who suffer from aphasia regain their ability to communicate fluidly. This application predicts the word that people with aphasias cannot come up with, empowering communication of millions worldwide.
 
@@ -30,10 +32,6 @@ Whatsit is a Al communication assistant tool that aims to help those who suffer 
 - Support for multiple languages
 - Image Database
 
-## Installation
-
-To run the application, you need to run all the cells in the notebook. 
-
 ## Contributors
 - Mentor: [Owen He](https://www.linkedin.com/in/owen-he-b7b064279/)
 - Teacher Assistant: [Krishna Maneesha Dendukuri](https://www.linkedin.com/in/krishna-maneeshad/)
@@ -46,3 +44,15 @@ To run the application, you need to run all the cells in the notebook.
 
 
 ![Group Picture](./Image/Group_Picture.png)
+
+
+## Demonstration
+>This is the homepage. There is an option to have an example of prompt, uploading an audio, recording an audio.
+![Home Page](./Image/1.png)
+
+>The recorded audio is going to have a text transcription for the user to verify their prompt before generating the words.
+![Recorded Audio](./Image/2.png)
+
+>When clicking on the "Generate Words" button, it will redirect to the second tab with the same text transcription and the words suggestion for the users. 
+![Predicted Words](./Image/3.png)
+
